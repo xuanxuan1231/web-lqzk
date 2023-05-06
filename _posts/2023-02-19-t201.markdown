@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "六七周刊 2023.02-1"
-date: 2023-02-26 10:21:12 +0800
-permakink: none
+date: 2023-02-19 11:40:12 +0800
+permakink: /:title/
 ---
 
 ## 2月13号正式开学！网课时代已成历史！
